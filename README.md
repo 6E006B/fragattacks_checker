@@ -1,11 +1,13 @@
 ## fragattacks_checker
 
-Convenience script to check all / multiple fragattacks vulnerabilities
+Convenience script to check all / multiple fragattacks vulnerabilities.
 
 Relies on the `fragattack.py` script from https://github.com/vanhoefm/fragattacks.
 The path to the script needs to be set with `-s` if it is not in the same directory.
 
 For information on the setup of `fragattack.py` refer to https://github.com/vanhoefm/fragattacks/blob/master/README.md.
+
+All credit is due to Mathy Vanhoef, go to https://www.fragattacks.com/ to learn more.
 
 ### usage
 
